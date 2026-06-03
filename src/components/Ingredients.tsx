@@ -27,7 +27,7 @@ export default function Ingredients() {
           <motion.div style={{ y: img1Y }} className="flex flex-col items-center">
             <div className="w-48 h-64 md:w-64 md:h-80 overflow-hidden rounded-t-[100px] mb-8 shadow-xl">
               <img 
-                src="src/Argan.jpg" 
+                src="https://unsplash.com/photos/clear-glass-cruet-bottle-uOBApnN_K7w" 
                 alt="Argan Oil" 
                 className="w-full h-full object-cover"
               />
@@ -41,7 +41,7 @@ export default function Ingredients() {
           <motion.div style={{ y: img2Y }} className="flex flex-col items-center md:mt-24">
             <div className="w-48 h-64 md:w-64 md:h-80 overflow-hidden rounded-[100px] mb-8 shadow-xl">
               <img 
-                src="src/Coconut.jpg" 
+                src="https://unsplash.com/photos/white-pillar-candle-on-brown-wooden-coaster-eDj-bODzFx8" 
                 alt="Coconut Extract" 
                 className="w-full h-full object-cover"
               />
