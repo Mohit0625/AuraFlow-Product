@@ -1,0 +1,6 @@
+{
+  "name": "Aura Hair Care Parallax",
+  "description": "A parallax effect website for a premium shampoo and conditioner brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
